@@ -1,0 +1,5 @@
+company_name,contact_name,email,company_size,industry,valid_email,valid_website
+Alpha Tech,John Doe,john@alpha.com,1200,Tech,True,
+Beta Solutions,Jane Smith,jane@beta,450,Finance,False,
+Gamma Corp,Bob Lee,bob@gamma.com,800,Tech,True,
+Delta Enterprises,Alice Wong,alice@delta.com,200,Retail,True,
