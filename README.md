@@ -44,3 +44,23 @@ cd leadgen-tool
 pip install -r requirements.txt
 
 python leadgen_tool.py
+
+# Lead Cleaning Tool
+
+This project helps validate and clean lead generation data (emails, websites, duplicates, etc.).
+
+## How to Use
+
+### Option 1: Run in Google Colab
+1. Open `leadgen_tool.ipynb`
+2. Click "Open in Colab"
+3. Upload your `leads.csv`
+4. Get a cleaned file as `cleaned_leads.csv`
+
+### Option 2: Run Locally
+1. Clone this repo
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+python leadgen_tool.py
+
